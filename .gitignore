@@ -4,3 +4,6 @@ model_save.tar.gz
 __pycache__/
 *.pyc
 .venv/
+.pytest_cache/
+.coverage
+htmlcov/
