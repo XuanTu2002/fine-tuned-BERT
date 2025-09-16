@@ -1,0 +1,6 @@
+.env
+model_save/
+model_save.tar.gz
+__pycache__/
+*.pyc
+.venv/
